@@ -1,0 +1,20 @@
+Dashboard Installation : 
+
+git clone https://github.com/hydren-dev/Oversee.git && cd Oversee && npm install && npm run seed && npm run createUser && node .
+
+
+
+Wings Setup : 
+
+ 1- git clone https://github.com/hydren-dev/HydraDAEMON
+ 
+ 2- cd HydraDAEMON
+ 
+ 3- npm i
+
+ 4- (Enter Your Note Token Token)
+
+
+PlayIt Plugin Link
+
+https://www.spigotmc.org/resources/playit-gg.105566/
